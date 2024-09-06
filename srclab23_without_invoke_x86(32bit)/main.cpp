@@ -1,4 +1,4 @@
-﻿#include <stdio.h>
+#include <stdio.h>
 extern "C" int calc(int, int);
 extern "C" int K = 100;
 int main()
